@@ -30,8 +30,26 @@ Experience
 
 :   **.Net Developer:** 
 	
+	Company (Alten)
+	Date (01-2022:)
+	(client FinnPower)
+	.Net application build on framework 4.2 with WPF
+	Creation for a interface for automation Machine
+	_______________
+	During the development i used mainly :
+	SQL
+	C# for logic development
+	GitHub for Code Managment
+	SVN for code managment
+	_______________
+
+
+
+:   **.Net Developer:** 
+	
+
 	Company (Holescher)
-	Date (09-2020:)
+	Date (09-2020:12-2021)
 	
 	.Net application build on framework 4.8. with WPF
 	Creation for a series of Plug-in for Rhinoceros design to assist the facade engineering workflow 
